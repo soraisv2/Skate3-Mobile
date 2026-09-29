@@ -1,5 +1,10 @@
 # SKATE 3 MOBILE, DEV IN PROGRESS!
 
+> **iOS fork status:** Preparation only; no playable iOS build or IPA yet.
+> See [the iOS porting notes](ios/README.md) for verified findings, required game
+> files, and remaining implementation work. The Android documentation below
+> describes the upstream project, not an iOS release.
+
 <p align="center">
   <a href="https://buku313.github.io/Skate3-Mobile/"><strong>OPEN THE SKATE 3 MOBILE WEBSITE</strong></a>
   &nbsp;·&nbsp;
